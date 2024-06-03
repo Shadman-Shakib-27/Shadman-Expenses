@@ -44,7 +44,6 @@ Check out the live demo of Shadman's Expanse Calculator [Live Site](https://expa
    ```bash
    npm install
 
-
 3. **Run the development server:**
 
    ```bash
